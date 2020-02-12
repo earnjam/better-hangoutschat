@@ -28,6 +28,6 @@ generateFiles "https:\/\/raw.githubusercontent.com\/paveyry\/better-hangoutschat
 
 generateFiles "https:\/\/raw.githubusercontent.com\/paveyry\/better-hangoutschat\/master\/css\/shape.css" "" "out/ghctheme"
 
-generateFiles "https:\/\/raw.githubusercontent.com\/paveyry\/better-hangoutschat\/master\/css\/shape.css" "https:\/\/raw.githubusercontent.com\/paveyry\/better-hangoutschat\/master\/css\/color_dark.css" "out/darktheme"
+generateFiles "https:\/\/raw.githubusercontent.com\/earnjam\/better-hangoutschat\/dark-n-blue\/css\/shape.css" "https:\/\/raw.githubusercontent.com\/earnjam\/better-hangoutschat\/dark-n-blue\/css\/color_dark.css" "out/darktheme"
 
 rm -rf "$DEFAULTINIT" "$PLUGINGEN" "$ESCAPEDPLUGIN" "$WRAPPEDPLUGIN"
