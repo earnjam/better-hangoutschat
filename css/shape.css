@@ -1,32 +1,19 @@
 /* Specify size for thread links */
 .threadlink {
-    font-size: 8px;
+    font-size: 10px;
+    padding: 5px 0 5px 0;
 }
 
 /* Reduce left and right margins in the chat area */
 .BEjUKc .cFc9ae {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
     width: auto;
     max-width:none;
 }
 .Bl2pUd {
     padding-left: 0px;
     padding-right: 0px;
-}
-
-/* Reduce height of header bar */
-.DWzK6d, .gb_Uf > .gb_g, .gb_Uf, .Jrbdv, .C2Jvlf {
-    height: 45px;
-}
-
-/* Reduce whitespace around New conversation button */
-.RnpT2b {
-    margin: 4px 0 4px 0;
-    min-height: 0px;
-}
-.IEIJqd {
-    padding-top: 0;
 }
 
 /* Allow messages to display full-width */
@@ -36,12 +23,12 @@
 
 /* Reduce top and bottom padding around date */
 .mCOR5e {
-    padding: 10px 0 0px 0;
+    padding: 8px 0 0;
 }
 
 /* Reduce right margin in sidebar */
 .n5yyEc {
-    margin-right: 4px;
+    margin-right: 8px;
 }
 
 /* Sidebar "recent" or "starred" section names text size */
@@ -65,7 +52,7 @@
 
 /* Padding height between messages in a thread */
 .nF6pT {
-    padding-top: 4px;
+    padding-top: 14px;
 }
 
 /* Margins around Unread label */
